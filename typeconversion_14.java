@@ -1,4 +1,4 @@
-//Type conversion is the process of automatically converting one data type into another by the compiler.It is also called implicit and widening.
+//Type conversion is the process of automatically converting one data type into another data type by the compiler.It is also called implicit and widening.
 
 // Conversion happens when:
 // - Type compatible      //yahan int → float conversion possible hai but int -> boolean nhi
